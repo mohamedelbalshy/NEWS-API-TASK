@@ -1,0 +1,20 @@
+{
+  "name": "news-api",
+  "version": "1.0.0",
+  "description": "Simple News API Task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Elbalshy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "mongodb": "^3.1.9",
+    "mongoose": "^5.3.11",
+    "morgan": "^1.9.1"
+  }
+}
